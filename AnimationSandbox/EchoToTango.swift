@@ -27,7 +27,7 @@ struct EchoToTango: View {
 struct EchoCircle: View {
     var body: some View {
                 Circle()
-                    .strokeBorder(ETColourScheme.lime, lineWidth: 25)
+                    .strokeBorder(ETColourScheme.lavender, lineWidth: 25)
                     .frame(width: 120, height: 120)
         }
 }

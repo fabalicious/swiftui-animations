@@ -15,6 +15,10 @@
 		4A7D1F522CF0B133003EEF69 /* AnimationSandboxTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A7D1F512CF0B133003EEF69 /* AnimationSandboxTests.swift */; };
 		4A7D1F5C2CF0B133003EEF69 /* AnimationSandboxUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A7D1F5B2CF0B133003EEF69 /* AnimationSandboxUITests.swift */; };
 		4A7D1F5E2CF0B133003EEF69 /* AnimationSandboxUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A7D1F5D2CF0B133003EEF69 /* AnimationSandboxUITestsLaunchTests.swift */; };
+		4A7D1F6B2CF0B161003EEF69 /* SpinnerLoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A7D1F6A2CF0B161003EEF69 /* SpinnerLoadingView.swift */; };
+		4A7D1F6D2CF0B207003EEF69 /* EchoTangoLogo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A7D1F6C2CF0B207003EEF69 /* EchoTangoLogo.swift */; };
+		4A7D1F6F2CF0B887003EEF69 /* ETColourScheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A7D1F6E2CF0B887003EEF69 /* ETColourScheme.swift */; };
+		4A7D1F712CF0C2A0003EEF69 /* EchoToTango.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A7D1F702CF0C2A0003EEF69 /* EchoToTango.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +50,10 @@
 		4A7D1F572CF0B133003EEF69 /* AnimationSandboxUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnimationSandboxUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4A7D1F5B2CF0B133003EEF69 /* AnimationSandboxUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationSandboxUITests.swift; sourceTree = "<group>"; };
 		4A7D1F5D2CF0B133003EEF69 /* AnimationSandboxUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationSandboxUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4A7D1F6A2CF0B161003EEF69 /* SpinnerLoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpinnerLoadingView.swift; sourceTree = "<group>"; };
+		4A7D1F6C2CF0B207003EEF69 /* EchoTangoLogo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EchoTangoLogo.swift; sourceTree = "<group>"; };
+		4A7D1F6E2CF0B887003EEF69 /* ETColourScheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ETColourScheme.swift; sourceTree = "<group>"; };
+		4A7D1F702CF0C2A0003EEF69 /* EchoToTango.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EchoToTango.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +109,10 @@
 				4A7D1F422CF0B131003EEF69 /* Item.swift */,
 				4A7D1F442CF0B133003EEF69 /* Assets.xcassets */,
 				4A7D1F462CF0B133003EEF69 /* Preview Content */,
+				4A7D1F6A2CF0B161003EEF69 /* SpinnerLoadingView.swift */,
+				4A7D1F6C2CF0B207003EEF69 /* EchoTangoLogo.swift */,
+				4A7D1F6E2CF0B887003EEF69 /* ETColourScheme.swift */,
+				4A7D1F702CF0C2A0003EEF69 /* EchoToTango.swift */,
 			);
 			path = AnimationSandbox;
 			sourceTree = "<group>";
@@ -261,8 +273,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				4A7D1F412CF0B131003EEF69 /* ContentView.swift in Sources */,
+				4A7D1F6D2CF0B207003EEF69 /* EchoTangoLogo.swift in Sources */,
+				4A7D1F712CF0C2A0003EEF69 /* EchoToTango.swift in Sources */,
 				4A7D1F432CF0B131003EEF69 /* Item.swift in Sources */,
 				4A7D1F3F2CF0B131003EEF69 /* AnimationSandboxApp.swift in Sources */,
+				4A7D1F6B2CF0B161003EEF69 /* SpinnerLoadingView.swift in Sources */,
+				4A7D1F6F2CF0B887003EEF69 /* ETColourScheme.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

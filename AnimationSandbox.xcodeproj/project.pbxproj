@@ -19,6 +19,7 @@
 		4A7D1F6D2CF0B207003EEF69 /* EchoTangoLogo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A7D1F6C2CF0B207003EEF69 /* EchoTangoLogo.swift */; };
 		4A7D1F6F2CF0B887003EEF69 /* ETColourScheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A7D1F6E2CF0B887003EEF69 /* ETColourScheme.swift */; };
 		4A7D1F712CF0C2A0003EEF69 /* EchoToTango.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A7D1F702CF0C2A0003EEF69 /* EchoToTango.swift */; };
+		4A9A11D02CF36C5300A7A9E7 /* ETBasicShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A9A11CF2CF36C5300A7A9E7 /* ETBasicShape.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		4A7D1F6C2CF0B207003EEF69 /* EchoTangoLogo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EchoTangoLogo.swift; sourceTree = "<group>"; };
 		4A7D1F6E2CF0B887003EEF69 /* ETColourScheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ETColourScheme.swift; sourceTree = "<group>"; };
 		4A7D1F702CF0C2A0003EEF69 /* EchoToTango.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EchoToTango.swift; sourceTree = "<group>"; };
+		4A9A11CF2CF36C5300A7A9E7 /* ETBasicShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ETBasicShape.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +115,7 @@
 				4A7D1F6C2CF0B207003EEF69 /* EchoTangoLogo.swift */,
 				4A7D1F6E2CF0B887003EEF69 /* ETColourScheme.swift */,
 				4A7D1F702CF0C2A0003EEF69 /* EchoToTango.swift */,
+				4A9A11CF2CF36C5300A7A9E7 /* ETBasicShape.swift */,
 			);
 			path = AnimationSandbox;
 			sourceTree = "<group>";
@@ -273,6 +276,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4A7D1F412CF0B131003EEF69 /* ContentView.swift in Sources */,
+				4A9A11D02CF36C5300A7A9E7 /* ETBasicShape.swift in Sources */,
 				4A7D1F6D2CF0B207003EEF69 /* EchoTangoLogo.swift in Sources */,
 				4A7D1F712CF0C2A0003EEF69 /* EchoToTango.swift in Sources */,
 				4A7D1F432CF0B131003EEF69 /* Item.swift in Sources */,
